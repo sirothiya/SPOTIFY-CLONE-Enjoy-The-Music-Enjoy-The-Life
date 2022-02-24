@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "a node js file",
   "main": "script.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@sirothiya"
+  },
   "scripts": {
     
   },
