@@ -1,0 +1,28 @@
+{
+  "name": "spotify-clone",
+  "version": "1.0.0",
+  "description": "a node js file",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirothiya/SPOTIFY-CLONE-Enjoy-The-Music-Enjoy-The-Life.git"
+  },
+  "keywords": [
+    "use",
+    "of",
+    "nodejs"
+  ],
+  "author": "shalini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirothiya/SPOTIFY-CLONE-Enjoy-The-Music-Enjoy-The-Life/issues"
+  },
+  "homepage": "https://github.com/sirothiya/SPOTIFY-CLONE-Enjoy-The-Music-Enjoy-The-Life#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
