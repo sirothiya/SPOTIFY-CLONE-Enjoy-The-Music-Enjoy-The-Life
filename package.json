@@ -4,10 +4,7 @@
   "description": "a node js file",
   "main": "script.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    
   },
   "repository": {
     "type": "git",
