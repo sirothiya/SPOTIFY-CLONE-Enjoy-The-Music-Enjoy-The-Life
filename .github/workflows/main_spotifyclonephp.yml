@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'spotifyclonephp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_36075DD5C2224FA18B1C16B64E7B4090 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9CC94CF0053248C797FDC6CC45ACF1B2 }}
           package: .
